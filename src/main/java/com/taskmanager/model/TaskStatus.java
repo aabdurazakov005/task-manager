@@ -1,4 +1,4 @@
-package org.example.model;
+package com.taskmanager.model;
 
 public enum TaskStatus {
     NEW,
